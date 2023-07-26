@@ -5,10 +5,10 @@ The Garment Factory Web Application is a comprehensive solution built for managi
 
 ## Key Features
 
-- Employee Management: Handle employee data, schedules, and assignments effectively.
-- Stock Management: Create, update, and track customer orders efficiently.
-- Supplier Management: Manage fabric and accessory inventory with real-time updates.
-- Machine Management: Keep track of production progress and optimize workflows.
+- Employee Management: Handle employee data (Insert/ Update/ Delete/ View/ Search), attendance management, and payments management, effectively.
+- Stock Management: Manage fabric and accessory inventory with real-time updates.
+- Supplier Management: Manage suppliers with real-time updates.
+- Machine Management: Manage machines with real-time updates.
 
 ## Getting Started
 ### Prerequisites
